@@ -1,4 +1,8 @@
 # praticar
+
+1. Create IAM Roles
+CodeDeploy & EC2CodeDeploy
+
 Instructions
 1.) When server is booted run the following commands as root.
 
